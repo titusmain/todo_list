@@ -1,10 +1,6 @@
-# Guess The Number
+# Todo List
+A command-line Haskell program where users can:
 
-Game about guessing a number.
-
-##Dependencies
-### System.Random
-This project requires the System.Random package.
-```bash
-cabal install random --lib
-```
+Add a todo.
+Remove a todo.
+List all todos.
